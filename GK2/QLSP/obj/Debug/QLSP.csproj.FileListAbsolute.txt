@@ -1,0 +1,17 @@
+E:\HỌC C#\GK2\QLSP\obj\Debug\QLSP.csproj.AssemblyReference.cache
+E:\HỌC C#\GK2\QLSP\obj\Debug\QLSP.csproj.SuggestedBindingRedirects.cache
+E:\HỌC C#\GK2\QLSP\obj\Debug\QLSP.Properties.Resources.resources
+E:\HỌC C#\GK2\QLSP\obj\Debug\QLSP.VIEW.DetailForm.resources
+E:\HỌC C#\GK2\QLSP\obj\Debug\QLSP.VIEW.MainForm.resources
+E:\HỌC C#\GK2\QLSP\obj\Debug\QLSP.csproj.GenerateResource.cache
+E:\HỌC C#\GK2\QLSP\obj\Debug\QLSP.csproj.CoreCompileInputs.cache
+E:\HỌC C#\GK2\QLSP\bin\Debug\QLSP.exe.config
+E:\HỌC C#\GK2\QLSP\bin\Debug\QLSP.exe
+E:\HỌC C#\GK2\QLSP\bin\Debug\QLSP.pdb
+E:\HỌC C#\GK2\QLSP\bin\Debug\EntityFramework.dll
+E:\HỌC C#\GK2\QLSP\bin\Debug\EntityFramework.SqlServer.dll
+E:\HỌC C#\GK2\QLSP\bin\Debug\EntityFramework.xml
+E:\HỌC C#\GK2\QLSP\bin\Debug\EntityFramework.SqlServer.xml
+E:\HỌC C#\GK2\QLSP\obj\Debug\QLSP.csproj.CopyComplete
+E:\HỌC C#\GK2\QLSP\obj\Debug\QLSP.exe
+E:\HỌC C#\GK2\QLSP\obj\Debug\QLSP.pdb

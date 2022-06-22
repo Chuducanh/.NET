@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\packages",
+    "\\QuanLySieuThi_Entity",
+    "\\QuanLySieuThi_Entity\\BLL",
+    "\\QuanLySieuThi_Entity\\DTO",
+    "\\QuanLySieuThi_Entity\\Entity",
+    "\\QuanLySieuThi_Entity\\GUI",
+    "\\QuanLySieuThi_Entity\\obj"
+  ],
+  "SelectedNode": "\\QuanLySieuThi_Entity\\Entity\\DALQLST.cs",
+  "PreviewInSolutionExplorer": false
+}

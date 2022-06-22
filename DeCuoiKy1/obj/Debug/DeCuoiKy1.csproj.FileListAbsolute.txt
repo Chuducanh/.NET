@@ -1,0 +1,17 @@
+D:\DUT\Semester4\NET\DemoThiCuoiKy\DeCuoiKy1\bin\Debug\DeCuoiKy1.exe.config
+D:\DUT\Semester4\NET\DemoThiCuoiKy\DeCuoiKy1\bin\Debug\DeCuoiKy1.exe
+D:\DUT\Semester4\NET\DemoThiCuoiKy\DeCuoiKy1\bin\Debug\DeCuoiKy1.pdb
+D:\DUT\Semester4\NET\DemoThiCuoiKy\DeCuoiKy1\bin\Debug\EntityFramework.dll
+D:\DUT\Semester4\NET\DemoThiCuoiKy\DeCuoiKy1\bin\Debug\EntityFramework.SqlServer.dll
+D:\DUT\Semester4\NET\DemoThiCuoiKy\DeCuoiKy1\bin\Debug\EntityFramework.xml
+D:\DUT\Semester4\NET\DemoThiCuoiKy\DeCuoiKy1\bin\Debug\EntityFramework.SqlServer.xml
+D:\DUT\Semester4\NET\DemoThiCuoiKy\DeCuoiKy1\obj\Debug\DeCuoiKy1.csproj.AssemblyReference.cache
+D:\DUT\Semester4\NET\DemoThiCuoiKy\DeCuoiKy1\obj\Debug\DeCuoiKy1.csproj.SuggestedBindingRedirects.cache
+D:\DUT\Semester4\NET\DemoThiCuoiKy\DeCuoiKy1\obj\Debug\DeCuoiKy1.Properties.Resources.resources
+D:\DUT\Semester4\NET\DemoThiCuoiKy\DeCuoiKy1\obj\Debug\DeCuoiKy1.Form1.resources
+D:\DUT\Semester4\NET\DemoThiCuoiKy\DeCuoiKy1\obj\Debug\DeCuoiKy1.csproj.GenerateResource.cache
+D:\DUT\Semester4\NET\DemoThiCuoiKy\DeCuoiKy1\obj\Debug\DeCuoiKy1.csproj.CoreCompileInputs.cache
+D:\DUT\Semester4\NET\DemoThiCuoiKy\DeCuoiKy1\obj\Debug\DeCuoiKy1.csproj.CopyComplete
+D:\DUT\Semester4\NET\DemoThiCuoiKy\DeCuoiKy1\obj\Debug\DeCuoiKy1.exe
+D:\DUT\Semester4\NET\DemoThiCuoiKy\DeCuoiKy1\obj\Debug\DeCuoiKy1.pdb
+D:\DUT\Semester4\NET\DemoThiCuoiKy\DeCuoiKy1\obj\Debug\DeCuoiKy1.View.DetailForm.resources

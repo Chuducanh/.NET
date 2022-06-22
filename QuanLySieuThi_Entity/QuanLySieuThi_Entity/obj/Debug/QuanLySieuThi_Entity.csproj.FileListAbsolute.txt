@@ -1,0 +1,33 @@
+C:\Users\WIN 10\OneDrive\Documents\QuanLySieuThi_Entity\QuanLySieuThi_Entity\obj\Debug\QuanLySieuThi_Entity.csproj.AssemblyReference.cache
+C:\Users\WIN 10\OneDrive\Documents\QuanLySieuThi_Entity\QuanLySieuThi_Entity\obj\Debug\QuanLySieuThi_Entity.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIN 10\OneDrive\Documents\QuanLySieuThi_Entity\QuanLySieuThi_Entity\obj\Debug\QuanLySieuThi_Entity.GUI.Form1.resources
+C:\Users\WIN 10\OneDrive\Documents\QuanLySieuThi_Entity\QuanLySieuThi_Entity\obj\Debug\QuanLySieuThi_Entity.Properties.Resources.resources
+C:\Users\WIN 10\OneDrive\Documents\QuanLySieuThi_Entity\QuanLySieuThi_Entity\obj\Debug\QuanLySieuThi_Entity.csproj.GenerateResource.cache
+C:\Users\WIN 10\OneDrive\Documents\QuanLySieuThi_Entity\QuanLySieuThi_Entity\obj\Debug\QuanLySieuThi_Entity.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\OneDrive\Documents\QuanLySieuThi_Entity\QuanLySieuThi_Entity\bin\Debug\QuanLySieuThi_Entity.exe.config
+C:\Users\WIN 10\OneDrive\Documents\QuanLySieuThi_Entity\QuanLySieuThi_Entity\bin\Debug\QuanLySieuThi_Entity.exe
+C:\Users\WIN 10\OneDrive\Documents\QuanLySieuThi_Entity\QuanLySieuThi_Entity\bin\Debug\QuanLySieuThi_Entity.pdb
+C:\Users\WIN 10\OneDrive\Documents\QuanLySieuThi_Entity\QuanLySieuThi_Entity\bin\Debug\EntityFramework.dll
+C:\Users\WIN 10\OneDrive\Documents\QuanLySieuThi_Entity\QuanLySieuThi_Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WIN 10\OneDrive\Documents\QuanLySieuThi_Entity\QuanLySieuThi_Entity\bin\Debug\EntityFramework.xml
+C:\Users\WIN 10\OneDrive\Documents\QuanLySieuThi_Entity\QuanLySieuThi_Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WIN 10\OneDrive\Documents\QuanLySieuThi_Entity\QuanLySieuThi_Entity\obj\Debug\QuanLySieuThi_Entity.csproj.CopyComplete
+C:\Users\WIN 10\OneDrive\Documents\QuanLySieuThi_Entity\QuanLySieuThi_Entity\obj\Debug\QuanLySieuThi_Entity.exe
+C:\Users\WIN 10\OneDrive\Documents\QuanLySieuThi_Entity\QuanLySieuThi_Entity\obj\Debug\QuanLySieuThi_Entity.pdb
+C:\Users\WIN 10\OneDrive\Documents\Học Kỳ 4 _ DUT\.NET\NET_DUT_BaiTap\Jasmine_DatabaseConnection\QuanLySieuThi_Entity\QuanLySieuThi_Entity\obj\Debug\QuanLySieuThi_Entity.csproj.AssemblyReference.cache
+C:\Users\WIN 10\OneDrive\Documents\Học Kỳ 4 _ DUT\.NET\NET_DUT_BaiTap\Jasmine_DatabaseConnection\QuanLySieuThi_Entity\QuanLySieuThi_Entity\obj\Debug\QuanLySieuThi_Entity.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIN 10\OneDrive\Documents\Học Kỳ 4 _ DUT\.NET\NET_DUT_BaiTap\Jasmine_DatabaseConnection\QuanLySieuThi_Entity\QuanLySieuThi_Entity\obj\Debug\QuanLySieuThi_Entity.GUI.Form1.resources
+C:\Users\WIN 10\OneDrive\Documents\Học Kỳ 4 _ DUT\.NET\NET_DUT_BaiTap\Jasmine_DatabaseConnection\QuanLySieuThi_Entity\QuanLySieuThi_Entity\obj\Debug\QuanLySieuThi_Entity.Properties.Resources.resources
+C:\Users\WIN 10\OneDrive\Documents\Học Kỳ 4 _ DUT\.NET\NET_DUT_BaiTap\Jasmine_DatabaseConnection\QuanLySieuThi_Entity\QuanLySieuThi_Entity\obj\Debug\QuanLySieuThi_Entity.csproj.GenerateResource.cache
+C:\Users\WIN 10\OneDrive\Documents\Học Kỳ 4 _ DUT\.NET\NET_DUT_BaiTap\Jasmine_DatabaseConnection\QuanLySieuThi_Entity\QuanLySieuThi_Entity\obj\Debug\QuanLySieuThi_Entity.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\OneDrive\Documents\Học Kỳ 4 _ DUT\.NET\NET_DUT_BaiTap\Jasmine_DatabaseConnection\QuanLySieuThi_Entity\QuanLySieuThi_Entity\obj\Debug\QuanLySieuThi_Entity.exe
+C:\Users\WIN 10\OneDrive\Documents\Học Kỳ 4 _ DUT\.NET\NET_DUT_BaiTap\Jasmine_DatabaseConnection\QuanLySieuThi_Entity\QuanLySieuThi_Entity\obj\Debug\QuanLySieuThi_Entity.pdb
+C:\Users\WIN 10\OneDrive\Documents\Học Kỳ 4 _ DUT\.NET\NET_DUT_BaiTap\Jasmine_DatabaseConnection\QuanLySieuThi_Entity\QuanLySieuThi_Entity\bin\Debug\QuanLySieuThi_Entity.exe.config
+C:\Users\WIN 10\OneDrive\Documents\Học Kỳ 4 _ DUT\.NET\NET_DUT_BaiTap\Jasmine_DatabaseConnection\QuanLySieuThi_Entity\QuanLySieuThi_Entity\bin\Debug\QuanLySieuThi_Entity.exe
+C:\Users\WIN 10\OneDrive\Documents\Học Kỳ 4 _ DUT\.NET\NET_DUT_BaiTap\Jasmine_DatabaseConnection\QuanLySieuThi_Entity\QuanLySieuThi_Entity\bin\Debug\QuanLySieuThi_Entity.pdb
+C:\Users\WIN 10\OneDrive\Documents\Học Kỳ 4 _ DUT\.NET\NET_DUT_BaiTap\Jasmine_DatabaseConnection\QuanLySieuThi_Entity\QuanLySieuThi_Entity\bin\Debug\EntityFramework.dll
+C:\Users\WIN 10\OneDrive\Documents\Học Kỳ 4 _ DUT\.NET\NET_DUT_BaiTap\Jasmine_DatabaseConnection\QuanLySieuThi_Entity\QuanLySieuThi_Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WIN 10\OneDrive\Documents\Học Kỳ 4 _ DUT\.NET\NET_DUT_BaiTap\Jasmine_DatabaseConnection\QuanLySieuThi_Entity\QuanLySieuThi_Entity\bin\Debug\EntityFramework.xml
+C:\Users\WIN 10\OneDrive\Documents\Học Kỳ 4 _ DUT\.NET\NET_DUT_BaiTap\Jasmine_DatabaseConnection\QuanLySieuThi_Entity\QuanLySieuThi_Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WIN 10\OneDrive\Documents\Học Kỳ 4 _ DUT\.NET\NET_DUT_BaiTap\Jasmine_DatabaseConnection\QuanLySieuThi_Entity\QuanLySieuThi_Entity\obj\Debug\QuanLySieuThi_Entity.csproj.CopyComplete
+C:\Users\WIN 10\OneDrive\Documents\Học Kỳ 4 _ DUT\.NET\NET_DUT_BaiTap\Jasmine_DatabaseConnection\QuanLySieuThi_Entity\QuanLySieuThi_Entity\obj\Debug\QuanLySieuThi_Entity.GUI.Form2.resources
